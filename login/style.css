@@ -389,7 +389,7 @@ body {
 }
 
 .comfort-link {
-    color: #c19a82;
+    color: #330962;
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
@@ -404,7 +404,7 @@ body {
     left: 0;
     width: 0;
     height: 1px;
-    background: #c19a82;
+    background: #330962;
     transition: width 0.3s ease;
 }
 
